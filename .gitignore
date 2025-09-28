@@ -26,3 +26,8 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+# Development guides and temporary files
+filament-medialibrary-guide.md
+variantsidea.md
+implementation-plan.md
